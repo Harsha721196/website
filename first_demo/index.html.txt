@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ABC International University</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <!-- Header -->
+    <header class="header">
+        <nav class="nav">
+            <a href="#">Home</a>
+            <a href="#">About</a>
+            <a href="#">Academics</a>
+            <a href="#">Admissions</a>
+            <a href="#">Research</a>
+            <a href="#">Contact</a>
+        </nav>
+    </header>
+
+    <!-- Hero Section with Big Center Logo -->
+    <section class="hero">
+        <div class="hero-content">
+            <h1 class="logo-text">ABC UNIVERSITY</h1>
+            <p class="tagline">Excellence in Education • Innovation • Leadership</p>
+            <button>Explore Programs</button>
+        </div>
+    </section>
+
+    <!-- About -->
+    <section class="about">
+        <h2>About ABC University</h2>
+        <p>
+            ABC International University is a globally recognized institution
+            committed to academic excellence, innovation, and leadership.
+        </p>
+    </section>
+
+    <!-- Academics -->
+    <section class="academics">
+        <h2>Academic Programs</h2>
+        <div class="programs">
+            <div class="program">Engineering & Technology</div>
+            <div class="program">Business & Management</div>
+            <div class="program">Medical Sciences</div>
+            <div class="program">Arts & Humanities</div>
+        </div>
+    </section>
+
+    <!-- Admissions -->
+    <section class="admissions">
+        <h2>Admissions 2025</h2>
+        <p>Applications are now open for undergraduate and postgraduate programs.</p>
+        <button>Apply Now</button>
+    </section>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <p>© 2025 ABC International University. All Rights Reserved.</p>
+    </footer>
+
+</body>
+</html>
